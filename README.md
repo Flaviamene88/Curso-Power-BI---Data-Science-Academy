@@ -1,0 +1,2 @@
+# Curso-Power-BI---Data-Science-Academy
+Neste curso aprederei não apenas a utilizar o Microsoft Power BI, mas aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com o Microsoft R. Este curso vai mostrar a você os primeiros passos sobre como fazer a transição do Business Intelligence tradicional para as análises preditivas com Data Science e Machine Learning.
